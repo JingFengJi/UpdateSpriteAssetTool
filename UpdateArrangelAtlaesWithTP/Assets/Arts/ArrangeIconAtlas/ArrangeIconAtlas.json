@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "icon_cash.png",
+	"frame": {"x":118,"y":3,"w":108,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":68},
+	"sourceSize": {"w":108,"h":68}
+},
+{
+	"filename": "icon_diamond.png",
+	"frame": {"x":3,"y":3,"w":111,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":92},
+	"sourceSize": {"w":111,"h":92}
+},
+{
+	"filename": "icon_money.png",
+	"frame": {"x":118,"y":75,"w":94,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":94},
+	"sourceSize": {"w":94,"h":94}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ArrangeIconAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:69743b25f27393c4ddb3822a909c8b23:71031f6e5885db2104a29bfaf7fdfc0e:9cece33b33ce20db0b9aedb1e15eeccc$"
+}
+}
